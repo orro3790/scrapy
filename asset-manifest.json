@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scrapy/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/scrapy/static/js/main.159f3ed0.chunk.js",
+    "main.js.map": "/scrapy/static/js/main.159f3ed0.chunk.js.map",
+    "runtime-main.js": "/scrapy/static/js/runtime-main.95b2b31d.js",
+    "runtime-main.js.map": "/scrapy/static/js/runtime-main.95b2b31d.js.map",
+    "static/js/2.b29a4a72.chunk.js": "/scrapy/static/js/2.b29a4a72.chunk.js",
+    "static/js/2.b29a4a72.chunk.js.map": "/scrapy/static/js/2.b29a4a72.chunk.js.map",
+    "static/js/3.a4b79c57.chunk.js": "/scrapy/static/js/3.a4b79c57.chunk.js",
+    "static/js/3.a4b79c57.chunk.js.map": "/scrapy/static/js/3.a4b79c57.chunk.js.map",
+    "index.html": "/scrapy/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/scrapy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b29a4a72.chunk.js.LICENSE.txt": "/scrapy/static/js/2.b29a4a72.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/scrapy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95b2b31d.js",
+    "static/js/2.b29a4a72.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.159f3ed0.chunk.js"
+  ]
+}
